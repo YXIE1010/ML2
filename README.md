@@ -1,5 +1,5 @@
 # ML2: Machine Learning based Melting Layer detection
-Leverage machine learning for automatic detection of melting layers from profiling radar observations     
+> Leverage machine learning for automatic detection of melting layers from profiling radar observations     
 
 This project is currently being written into a journal article to be submitted to [*Journal of Geophysical Research: Machine Learning and Computation*](https://agupubs.onlinelibrary.wiley.com/journal/29935210)
 
