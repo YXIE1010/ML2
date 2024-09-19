@@ -12,8 +12,6 @@
 
 - The U-Net model shows promise in providing interpretable detections with uncertainty estimation based on ensemble predictions.
 
-## Hands-on example
-*File in preparation, Stay tuned*
 
 ## Authors
 Yan Xie (yanxieyx@umich.edu), Fraser King, Claire Pettersen, Mark Flanner   
